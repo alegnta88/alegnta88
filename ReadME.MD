@@ -1,10 +1,8 @@
 Hi There, :wave: <h1>My Name is Alegnta!</h1>
 <h2>DevOps Engineer</h2>
 
-Contact me at: :envelope: alegnta88@gmail.com
-
 <ul style="list-style-type: circle;">
-  <li>First item</li>
+  <li>Contact me at: :envelope: alegnta88@gmail.com</li>
   <li>Second item</li>
   <li>Third item</li>
 </ul>
