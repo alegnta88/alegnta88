@@ -3,7 +3,7 @@
 
 ![My Image](https://th.bing.com/th/id/R.dffa5970146c2ebd831f5205ae9d5466?rik=pDJZZ8QTki%2bo5A&riu=http%3a%2f%2fvfplimited.com%2fwp-content%2fuploads%2f2021%2f02%2fDevOps-scaled-copy-1.png&ehk=BMI5yNM%2byJKJwlWybCadmFpVBbBNgCqxzfNqGHt8HW4%3d&risl=&pid=ImgRaw&r=0)
 
-- 🔭 I’m currently working at [KTS](https://kegeberewtech.com/)
+- 🔭 I’m currently working at [Digaf Micro Credit Provider S.C](https://digafmfi.et/)
 
 - 🌱 I’m currently learning **Cloud Services**
 
